@@ -5,7 +5,7 @@ The aim is to complement @cmrivers's repo for the outbreak data, by hosting rela
  * To test, clone the repo, and within data/ folder clone Dr. Caitlin Rivers' repo https://github.com/cmrivers/ebola_drc
  
  
- ** Note that Health Zones shapefile from HDX is outdated (https://www.theatlantic.com/health/archive/2018/05/most-maps-of-the-new-ebola-outbreak-are-wrong/560777/) and are being updated on the ground. Will wait for new shapefiles before updating the animations ** 
+ ** Note that Health Zones shapefile from HDX is outdated (https://www.theatlantic.com/health/archive/2018/05/most-maps-of-the-new-ebola-outbreak-are-wrong/560777/) and is being updated on the ground. Will wait for new shapefiles before updating the animations ** 
 
 ## Contents:
 
