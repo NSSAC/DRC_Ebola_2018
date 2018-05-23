@@ -1,6 +1,8 @@
 # DRC_Ebola_2018
 Data, scripts and analyses for ongoing (May 2018) Ebola outbreak in DRC.
- * To run the scripts, clone the repo, and within data/ folder clone Dr. Caitlin Rivers' repo https://github.com/cmrivers/ebola_drc
+The aim is to complement @cmrivers's repo for the outbreak data, by hosting related datasets in one place, with associated analysis/plotting notebooks.
+
+ * To test, clone the repo, and within data/ folder clone Dr. Caitlin Rivers' repo https://github.com/cmrivers/ebola_drc
 
 ## Contents:
 
@@ -20,3 +22,7 @@ Notebooks for generating choropleth animations, EDA of past epi data.
 
 ### plots/
 Latest choropleth animations of EVD progression at National and Provincial level. 
+
+## Contributions:
+Feel free to contribute (data, analysis, visualizations) through pull requests. 
+Contact: https://twitter.com/sriniv_venkat  
