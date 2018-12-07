@@ -1,4 +1,8 @@
+.DS_Store
 Icon*
-notebooks/.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints
 data/shapefile/HOTOSM
-data/ebola_drc
+data/patchsim
+slides
+data/ebola_drc_nordkivu
+data/ebola_drc_equateur
