@@ -10,6 +10,7 @@ Also collected Health Sites location and Transport shape files.
 Ongoing outbreak data (from Caitlin's repo):
 https://github.com/cmrivers/ebola_drc
 
+Nord Kivu data from https://github.com/sophiemeakin/ebola_drc/
 
 WHO Situation Reports (SITREPs):http://www.who.int/ebola/situation-reports/drc-2018/en/
 WHO Diseas Outbreak News (DONs): http://www.who.int/csr/don/en/
