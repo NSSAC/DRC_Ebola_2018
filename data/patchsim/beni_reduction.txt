@@ -1,2 +1,2 @@
 id beta alpha gamma
-BENI 0.16 0.133 0.1
+VUHOVI 0.08 0.133 0.1

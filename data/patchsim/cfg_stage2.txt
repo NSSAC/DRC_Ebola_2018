@@ -7,6 +7,8 @@ InfectionRate=0.133
 RecoveryRate=0.1
 ScalingFactor=1.0
 
+ParamFile=../data/patchsim/beni_reduction.txt
+
 StartDate=1
 Duration=50
 
