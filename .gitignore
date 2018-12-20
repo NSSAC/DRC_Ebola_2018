@@ -2,7 +2,6 @@
 Icon*
 .ipynb_checkpoints
 data/shapefile/HOTOSM
-data/patchsim
 slides
 data/ebola_drc_nordkivu
 data/ebola_drc_equateur

@@ -1,0 +1,10 @@
+2018-07-31 16:19:10,492 - patchsim - INFO - Starting PatchSim
+2018-07-31 16:19:10,495 - patchsim - INFO - Loaded patch attributes
+2018-07-31 16:19:10,496 - patchsim - INFO - Loaded disease parameters from Config
+2018-07-31 16:19:10,496 - patchsim - INFO - No ParamFile loaded
+2018-07-31 16:19:10,910 - patchsim - INFO - Loaded temporal travel matrix
+2018-07-31 16:19:10,917 - patchsim - INFO - Loaded seeding schedule
+2018-07-31 16:19:10,917 - patchsim - INFO - Continuing without vaccination
+2018-07-31 16:19:10,917 - patchsim - INFO - Initializing simulation run...
+2018-07-31 16:19:10,942 - patchsim - INFO - Simulation complete. Writing outputs...
+2018-07-31 16:19:11,020 - patchsim - INFO - Done! Time elapsed: 0.5280380249023438 seconds.
