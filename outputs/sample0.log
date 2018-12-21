@@ -1,0 +1,11 @@
+2018-12-21 13:06:30,240 - patchsim - INFO - Starting PatchSim
+2018-12-21 13:06:30,243 - patchsim - INFO - Loaded patch attributes
+2018-12-21 13:06:30,243 - patchsim - INFO - Loaded disease parameters from Config
+2018-12-21 13:06:30,248 - patchsim - INFO - Loaded disease parameters from ParamFile
+2018-12-21 13:06:30,270 - patchsim - INFO - Loaded temporal travel matrix
+2018-12-21 13:06:30,277 - patchsim - INFO - Loaded seeding schedule
+2018-12-21 13:06:30,278 - patchsim - INFO - Initializing simulation run...
+2018-12-21 13:06:30,278 - patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2018-12-21 13:06:30,282 - patchsim - INFO - Simulation complete. Writing outputs...
+2018-12-21 13:06:30,291 - patchsim - INFO - Saving StateArray to File
+2018-12-21 13:06:30,291 - patchsim - INFO - Done! Time elapsed: 0.05154991149902344 seconds.

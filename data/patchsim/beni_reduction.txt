@@ -1,2 +1,0 @@
-id beta alpha gamma
-VUHOVI 0.08 0.133 0.1

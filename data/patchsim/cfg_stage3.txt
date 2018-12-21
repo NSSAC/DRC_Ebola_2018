@@ -6,18 +6,16 @@ ExposureRate=0.09
 InfectionRate=0.133
 RecoveryRate=0.1
 ScalingFactor=1.0
-ParamFile=../data/patchsim/param_stage2.txt
-
-SeedFile=../data/patchsim/seed_butembo_katwa.txt
+ParamFile=../data/patchsim/param_stage3.txt
 
 StartDate=1
-Duration=50
+Duration=30
 
 LoadState=True
-LoadFile=../outputs/checkpoint1.npy
+LoadFile=../outputs/checkpoint2.npy
 SaveState=True
-SaveFile=../outputs/checkpoint2.npy
+SaveFile=../outputs/checkpoint3.npy
 
-OutputFile=../outputs/sample2.out
+OutputFile=../outputs/sample3.out
 OutputFormat=Fractional
-LogFile=../outputs/sample2.log
+LogFile=../outputs/sample3.log
