@@ -16,3 +16,5 @@ WHO Situation Reports (SITREPs):http://www.who.int/ebola/situation-reports/drc-2
 WHO Diseas Outbreak News (DONs): http://www.who.int/csr/don/en/
 
 DRC MOH mailing list: http://linkedin.us13.list-manage.com/subscribe?u=89e5755d2cca4840b1af93176&id=aedd23c530
+
+Updated DRC pop - cod_pop_20180611 from: https://data.humdata.org/dataset/rdc-statistiques-des-populations
