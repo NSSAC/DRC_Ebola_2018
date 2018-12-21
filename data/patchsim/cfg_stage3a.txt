@@ -9,7 +9,7 @@ ScalingFactor=1.0
 ParamFile=../data/patchsim/param_stage3a.txt
 
 StartDate=1
-Duration=30
+Duration=90
 
 LoadState=True
 LoadFile=../outputs/checkpoint2.npy
