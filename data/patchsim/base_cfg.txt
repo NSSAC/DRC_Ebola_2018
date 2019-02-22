@@ -19,5 +19,5 @@ LoadState=False
 SaveState=False
 
 OutputFile=../outputs/sample.out
-OutputFormat=Whole
+OutputFormat=Fractional
 LogFile=../outputs/sample.log
