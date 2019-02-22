@@ -18,6 +18,6 @@ Duration=$duration
 LoadState=False
 SaveState=False
 
-OutputFile=../outputs/sample0.out
+OutputFile=../outputs/sample.out
 OutputFormat=Whole
-LogFile=../outputs/sample0.log
+LogFile=../outputs/sample.log
