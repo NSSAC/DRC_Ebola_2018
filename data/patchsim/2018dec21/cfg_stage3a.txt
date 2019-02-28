@@ -1,21 +1,21 @@
-PatchFile=../data/patchsim/pop_drc_v3.csv
-NetworkFile=../data/patchsim/grav_drc_v3.csv
+PatchFile=../../data/patchsim/2018dec21/pop_drc_v3.csv
+NetworkFile=../../data/patchsim/2018dec21/grav_drc_v3.csv
 NetworkType=Static
 
 ExposureRate=0.09
 InfectionRate=0.133
 RecoveryRate=0.1
 ScalingFactor=1.0
-ParamFile=../data/patchsim/param_stage3a.txt
+ParamFile=../../data/patchsim/2018dec21/param_stage3a.txt
 
 StartDate=1
 Duration=90
 
 LoadState=True
-LoadFile=../outputs/checkpoint2.npy
+LoadFile=../../outputs/2018dec21/checkpoint2.npy
 SaveState=True
-SaveFile=../outputs/checkpoint3a.npy
+SaveFile=../../outputs/2018dec21/checkpoint3a.npy
 
-OutputFile=../outputs/sample3a.out
+OutputFile=../../outputs/2018dec21/sample3a.out
 OutputFormat=Fractional
-LogFile=../outputs/sample3a.log
+LogFile=../../outputs/2018dec21/sample3a.log

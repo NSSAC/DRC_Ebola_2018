@@ -10,7 +10,7 @@ ParamFile=../data/patchsim/calib_cps/param_stage3.txt
 
 
 StartDate=1
-Duration=30
+Duration=41
 
 LoadState=True
 LoadFile=../outputs/checkpoint2.npy
