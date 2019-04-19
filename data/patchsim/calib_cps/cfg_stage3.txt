@@ -6,19 +6,19 @@ ExposureRate=0.05
 InfectionRate=0.133
 RecoveryRate=0.1
 ScalingFactor=1.0
-ParamFile=../data/patchsim/manual_cps/param_stage4.txt
+ParamFile=../data/patchsim/manual_cps/param_stage3.txt
 
-SeedFile=../data/patchsim/manual_cps/seed_vuhovi.txt
+SeedFile=../data/patchsim/manual_cps/seed_mandima.txt
 
 
 StartDate=1
-Duration=26
+Duration=40
 
 LoadState=True
-LoadFile=../outputs/checkpoint3.npy
+LoadFile=../outputs/checkpoint2.npy
 SaveState=True
-SaveFile=../outputs/checkpoint4.npy
+SaveFile=../outputs/checkpoint3.npy
 
-OutputFile=../outputs/sample4.out
+OutputFile=../outputs/sample3.out
 OutputFormat=Fractional
-LogFile=../outputs/sample4.log
+LogFile=../outputs/sample3.log
