@@ -5,3 +5,6 @@ data/shapefile/HOTOSM
 slides
 data/ebola_drc_nordkivu
 data/ebola_drc_equateur
+*.npy
+*.log
+*.out
