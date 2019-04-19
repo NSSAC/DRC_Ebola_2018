@@ -1,0 +1,5 @@
+id beta alpha gamma
+BENI 0.18 0.133 0.1
+KATWA 0.21 0.133 0.1
+MANDIMA 0.22 0.133 0.1
+VUHOVI 0.22 0.133 0.1
