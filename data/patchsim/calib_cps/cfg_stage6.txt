@@ -6,18 +6,16 @@ ExposureRate=0.05
 InfectionRate=0.133
 RecoveryRate=0.1
 ScalingFactor=1.0
-ParamFile=../data/patchsim/calib_cps/param_stage5.txt
-
-SeedFile=../data/patchsim/calib_cps/seed_mblk.txt
+ParamFile=../data/patchsim/calib_cps/param_stage6.txt
 
 StartDate=1
 Duration=30
 
 LoadState=True
-LoadFile=../outputs/checkpoint4.npy
+LoadFile=../outputs/checkpoint5.npy
 SaveState=True
-SaveFile=../outputs/checkpoint5.npy
+SaveFile=../outputs/checkpoint6.npy
 
-OutputFile=../outputs/sample5.out
+OutputFile=../outputs/sample6.out
 OutputFormat=Fractional
-LogFile=../outputs/sample5.log
+LogFile=../outputs/sample6.log

@@ -12,7 +12,7 @@ SeedFile=../data/patchsim/calib_cps/seed_vuhovi.txt
 
 
 StartDate=1
-Duration=39
+Duration=30
 
 LoadState=True
 LoadFile=../outputs/checkpoint3.npy
