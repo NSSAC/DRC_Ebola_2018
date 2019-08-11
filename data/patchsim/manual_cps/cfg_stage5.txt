@@ -11,7 +11,7 @@ ParamFile=../data/patchsim/manual_cps/param_stage5.txt
 SeedFile=../data/patchsim/manual_cps/seed_mblk.txt
 
 StartDate=1
-Duration=30
+Duration=40
 
 LoadState=True
 LoadFile=../outputs/checkpoint4.npy

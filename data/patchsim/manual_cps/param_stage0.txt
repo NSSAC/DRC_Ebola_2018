@@ -1,3 +1,2 @@
-id beta alpha gamma
-MABALAKO 0.25 0.133 0.1
-BENI 0.21 0.133 0.1
+MABALAKO 0.25
+BENI 0.21
